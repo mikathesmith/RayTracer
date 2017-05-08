@@ -1,0 +1,3 @@
+/home/cshome/m/mismith/COSC342/lab05-raytracer/RayTracer/build/CMakeFiles/rebuild_cache.dir
+/home/cshome/m/mismith/COSC342/lab05-raytracer/RayTracer/build/CMakeFiles/edit_cache.dir
+/home/cshome/m/mismith/COSC342/lab05-raytracer/RayTracer/build/CMakeFiles/rayTracer.dir
